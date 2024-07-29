@@ -9,15 +9,6 @@ Create furniture website with using:
 
 <br>
 
-How to install this project
-
-1. create database
-2. import 'joomla_db.sql' in database
-3. download joomla form [https://downloads.joomla.org/](https://downloads.joomla.org/).
-4. login
-   - user: admin
-   - password: admin31012545
-
 ## Home page
 <br>
 
